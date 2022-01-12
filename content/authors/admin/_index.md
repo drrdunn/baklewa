@@ -16,8 +16,8 @@ email: ""
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- cooking
+
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
